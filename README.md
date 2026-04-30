@@ -1,8 +1,8 @@
-<h1 align="center">Hey Folks 👋</h1>
+<h1 align="left">Hey Folks 👋</h1>
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2h1aDRjajZxc2N2YnBzem1za3d6YWptZTJ4cnIyNjZuejJqdWZjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif"  />
 </div>
 
@@ -16,7 +16,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
@@ -72,8 +72,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thaminuZs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=thaminuZs&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaminuZs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
