@@ -73,8 +73,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=thaminuZs&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/thaminuZs/thaminuZs/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaminuzs&show_icons=true&locale=en&layout=compact" alt="thaminuzs" /> <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaminuzs&" alt="thaminuzs" />
 </div>
 
 ###
