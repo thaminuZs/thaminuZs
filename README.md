@@ -73,7 +73,7 @@
 ###
 
 <div align="left">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaminuZs&theme=2077" height="180em" /> <br><br><br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaminuZs&theme=2077" height="180em" /> <br><br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaminuZs&theme=gotham" height="180em" />
 </div>
 
