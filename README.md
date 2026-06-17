@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👋 I'm Thaminu. A passionate developer.<br><br>- 💻 Interested in back-end web development<br>- 🌱 Currently learning new technologies<br>- 🚀 Always exploring better ways to build things</p>
+<p align="left">👋 I'm Thaminu.<br>Full-stack developer who can move comfortably across the stack, but the back-end is where I actually want to live — building the logic, APIs, and systems that make everything else possible.<br><br>- 💻 Interested in web development<br>- 🌱 Currently leveling up on new technologies<br>- 🚀 Always exploring better ways to build things</p>
 
 ###
 
