@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2lqeXA5ank1dm9mNGNyb2NmNDJxZHpwdTZ1OHo3MGtkdHppN3BjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T4NGMT3LWL3tt5tfXZ/giphy.gif" />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlkY2x4Nm83Y3JtMGo0ZWIzMWQ0ZGpxMzFnbmQ0aHdvazZzZHo1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57vB0v8PDWtM5heYeN/giphy.gif" />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-| Category | Stack |
+| Category | Technologies |
 |---|---|
 | **Backend** | <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo" /> |
