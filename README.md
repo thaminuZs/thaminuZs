@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👋 I'm Thaminu.<br>Full-stack developer who can move comfortably across the stack, but the back-end is where I actually want to live — building the logic, APIs, and systems that make everything else possible.<br><br>- 💻 Interested in web development<br>- 🌱 Currently leveling up on new technologies<br>- 🚀 Always exploring better ways to build things</p>
+<p align="left">👋 I'm Thaminu — back-end at heart 👽, full-stack by trade.<br>Building APIs & IoT systems that actually scale. 🚀</p>
 
 ###
 
@@ -25,6 +25,8 @@
 </div>
 
 ###
+
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -60,6 +62,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
+
+---
 
 ###
 
