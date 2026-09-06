@@ -32,36 +32,11 @@
 
 ###
 
-### Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-</div>
-
-### Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-</div>
-
-### Tools & Platforms
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-</div>
+| Category | Stack |
+|---|---|
+| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" /> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" /> <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" /> <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" /> <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /> <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" /> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /> <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /> <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" /> |
 
 ---
 
