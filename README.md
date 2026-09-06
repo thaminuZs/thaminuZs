@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="left">🧙 Dev Sorcery</h3>
+<h3 align="left">🐦‍🔥 Dev Sorcery</h3>
 
 ###
 
