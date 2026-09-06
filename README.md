@@ -1,4 +1,4 @@
-<h1 align="left">Hey Folks 👋</h1>
+<h1 align="left">Hey Folks | やあ 👋</h1>
 
 ###
 
@@ -12,12 +12,14 @@
 
 ###
 
-<p align="left">👋 I'm Thaminu — back-end at heart 👽, full-stack by trade.<br>Building APIs & IoT systems that actually scale. 🚀</p>
+<p align="left">I'm Thaminu ✌ Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</p>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:th.sonal@hotmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
   <a href="https://www.linkedin.com/in/thaminu-s/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
