@@ -34,11 +34,15 @@
 
 ###
 
+> Icons ordered by proficiency (Proficient → Familiar)
+
 | Category | Technologies |
 |---|---|
 | **Backend** | <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" /> |
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" /> |
+
+<p align="left"><b><i>Ranked Strongest → Familiar</i></b><br><i>(left to right)</i></p>
 
 ---
 
