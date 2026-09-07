@@ -1,4 +1,4 @@
-<h1 align="left">Hey Folks | やあ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU3Z2ptY2cya2F1a251dGtkZ2F3cTBya3I2cXJmY2s1M3RsbHA0eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aQuMoDDzHv4AivLPNn/giphy.gif" width="70px" height="35px" alt="waving hand" /></h1>
+<h1 align="left">Hey Folks | やあ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU3Z2ptY2cya2F1a251dGtkZ2F3cTBya3I2cXJmY2s1M3RsbHA0eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aQuMoDDzHv4AivLPNn/giphy.gif" width="60px" height="30px" alt="waving hand" /></h1>
 
 ###
 
