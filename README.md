@@ -2,17 +2,17 @@
 
 ###
 
-<div align="left">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnRmNXRnNzF0c2ZzNzF2MmZybWUzN3ZjZDdqcnFiYWxhaTliaTZybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6SrwmChtVzIb36tA7o/giphy.gif" />
-</div>
-
-###
-
-<h3 align="left">㊙️ About Me</h3>
-
-###
-
-<p align="left">I'm Thaminu ✌ Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</p>
+<table>
+  <tr>
+    <td width="150">
+      <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnRmNXRnNzF0c2ZzNzF2MmZybWUzN3ZjZDdqcnFiYWxhaTliaTZybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6SrwmChtVzIb36tA7o/giphy.gif" />
+    </td>
+    <td>
+      <h3 align="left">㊙️ About Me</h3>
+      <p align="left">I'm Thaminu ✌ Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</p>
+    </td>
+  </tr>
+</table>
 
 ###
 
