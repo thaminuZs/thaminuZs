@@ -40,9 +40,9 @@
 
 | Category | Technologies |
 |---|---|
-| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" /> |
-| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" /> |
+| **Backend** | <table><tr><td align="center"><img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" /><br><sub>.NET</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" /><br><sub>NestJS</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /><br><sub>Express</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" /><br><sub>Spring</sub></td></tr></table> |
+| **Frontend** | <table><tr><td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /><br><sub>Next.js</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" /><br><sub>Angular</sub></td></tr></table> |
+| **Tools & Platforms** | <table><tr><td align="center"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" /><br><sub>Linux</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" /><br><sub>Docker</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" /><br><sub>Git</sub></td><td align="center"><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" /><br><sub>Arduino</sub></td></tr></table> |
 
 <p align="left"><b><i>Ranked Strongest → Familiar</i></b><br><i>(left to right)</i></p>
 
