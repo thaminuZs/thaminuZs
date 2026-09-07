@@ -54,9 +54,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaminuZs&theme=gotham" height="180em" />&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaminuZs&theme=gotham" height="180em" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaminuZs&theme=gotham" width="100%" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaminuZs&theme=gotham" width="100%" /></td>
+  </tr>
+</table>
 
 ###
