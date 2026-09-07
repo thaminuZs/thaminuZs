@@ -34,7 +34,6 @@
 
 ###
 
-> Icons ordered by proficiency (Proficient → Familiar)
 
 | Category | Technologies |
 |---|---|
