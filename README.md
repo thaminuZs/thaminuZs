@@ -1,4 +1,4 @@
-<h1 align="left">Hey Folks | やあ &nbsp;&nbsp;<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzF6MW9sOHJ3OXhuOWQ4N2RwamwweHk4b2dtemxuMXl4cjY0ZHBsbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mEbEflAu3kMNBqyLCm/giphy.gif" width="35px" height="35px" alt="waving hand" /></h1>
+<h1 align="left">Hey Folks | やあ &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hand" /></h1>
 
 ###
 
