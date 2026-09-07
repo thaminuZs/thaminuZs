@@ -9,7 +9,7 @@
     </td>
     <td>
       <h3 align="left">㊙️ About Me</h3>
-      <h4 align="left">I'm Thaminu ✌<br>Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</h4>
+      <h4 align="left">I'm Thaminu ✌<br><br>Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</h4>
     </td>
   </tr>
 </table>
