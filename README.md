@@ -1,6 +1,7 @@
 <h1 align="left">Hey Folks | やあ &nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" alt="waving hand" /></h1>
 
 ###
+
 <table>
   <tr>
     <td width="150">
@@ -8,7 +9,7 @@
     </td>
     <td>
       <h3 align="left">㊙️ About Me</h3>
-      <p align="left"><big>I'm Thaminu ✌<br>Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</big></p>
+      <h5 align="left">I'm Thaminu ✌<br>Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</h5>
     </td>
   </tr>
 </table>
