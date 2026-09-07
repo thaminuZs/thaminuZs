@@ -2,13 +2,16 @@
 
 ###
 
+<h3 align="left">㊙️ About Me</h3>
+
+###
+
 <table>
   <tr>
     <td width="150">
       <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnRmNXRnNzF0c2ZzNzF2MmZybWUzN3ZjZDdqcnFiYWxhaTliaTZybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6SrwmChtVzIb36tA7o/giphy.gif" />
     </td>
     <td>
-      <h3 align="left">㊙️ About Me</h3>
       <h4 align="left">I'm Thaminu ✌<br><br>Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</h4>
     </td>
   </tr>
