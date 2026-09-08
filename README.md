@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="150">
-      <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnRmNXRnNzF0c2ZzNzF2MmZybWUzN3ZjZDdqcnFiYWxhaTliaTZybyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6SrwmChtVzIb36tA7o/giphy.gif" />
+      <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWxvYXkzMmFlYnRrZHRkOXY5djZjMGE5OWhzZ3Y1cmZwMHBrNmZ1eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h5FX6gsphsJpO4Re7O/giphy.gif" />
     </td>
     <td>
       <h3 align="left">I'm Thaminu ✌<br><br>Back-end at heart 👽, Full-stack by trade 🧩.<br>Building APIs & IoT systems that actually scale. 🚀</h3>
