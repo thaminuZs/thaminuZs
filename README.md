@@ -13,9 +13,9 @@
     </td>
     <td valign="middle">
   <b>I'm Sonal ✌</b><br><br>
-  DevOps & back-end at heart ⚙️<br>
-  Automating, deploying & running infrastructure ☁️<br>
-  Dev background, Ops mindset 🔁<br><br>
+  DevOps & Back-end at Heart ⚙️<br>
+  Automating, Deploying & Running Infrastructure ☁️<br>
+  Dev Background, Ops Mindset 🔁<br><br>
   <b>Turning code into production-ready systems that scale. 🚀</b>
 </td>
   </tr>
