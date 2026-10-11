@@ -12,12 +12,12 @@
       <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWxvYXkzMmFlYnRrZHRkOXY5djZjMGE5OWhzZ3Y1cmZwMHBrNmZ1eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h5FX6gsphsJpO4Re7O/giphy.gif" alt="intro gif" />
     </td>
     <td valign="middle">
-      <b>I'm Sonal ✌</b><br><br>
-      Back-end at heart 👽<br>
-      DevOps by passion ⚙️<br>
-      Full-stack when needed 🧩<br><br>
-      <b>Building APIs &amp; IoT systems that actually scale.</b> 🚀
-    </td>
+  <b>I'm Sonal ✌</b><br><br>
+  DevOps & back-end at heart ⚙️<br>
+  Automating, deploying & running infrastructure ☁️<br>
+  Dev background, Ops mindset 🔁<br><br>
+  <b>Turning code into production-ready systems that scale. 🚀</b>
+</td>
   </tr>
 </table>
 
